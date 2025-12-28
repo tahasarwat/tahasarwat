@@ -1,5 +1,7 @@
 # About Me:
-abczmd
+I am a Master’s student in Computer Science at Purdue University, focused on building scalable, real-world software systems. My work spans applied machine learning, full-stack web development and AI-driven applications, with experience in intelligent retrieval systems, generative models and data-driven platforms.
+
+I enjoy translating research ideas into production-ready solutions and building systems that are reliable, efficient and user-centered. I am currently seeking a Software Engineering or Machine Learning internship starting May 2026.
 
 
 ## 🌐 Socials:
