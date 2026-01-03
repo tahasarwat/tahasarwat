@@ -1,7 +1,9 @@
 # About Me:
-I am a Master’s student in Computer Science at Purdue University, focused on building scalable, real-world software systems. My work spans applied machine learning, full-stack web development and AI-driven applications, with experience in intelligent retrieval systems, generative models and data-driven platforms.
+I am a Master's student in Computer Science at Purdue University with a strong passion for building practical, real-world software systems. I enjoy taking ideas from concept to production, whether that means designing scalable full-stack applications, building intelligent data-driven systems or developing AI-powered tools that solve real problems.
 
-I enjoy translating research ideas into production-ready solutions and building systems that are reliable, efficient and user-centered. I am currently seeking a Software Engineering or Machine Learning internship starting May 2026.
+My primary interests lie in Applied Machine Learning and Software Engineering, where I focus on designing efficient and scalable systems rather than purely theoretical models. Through my academic and industry experience, I have worked on projects ranging from intelligent search and retrieval systems to multi-modal generative AI and large-scale data analysis.
+
+I am particularly motivated by building reliable, user-centered software that bridges research and practical impact. I am currently seeking a Software Engineering or Machine Learning internship starting in May 2026, where I can contribute to impactful products while continuing to grow as an engineer.
 
 
 ## 🌐 Socials:
